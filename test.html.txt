@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cactus Chatter – The Talking Succulent</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #fefae0;
+      color: #4b4b4b;
+      margin: 0;
+      padding: 0;
+    }
+    .product-container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .product-title {
+      font-size: 2rem;
+      text-align: center;
+      color: #588157;
+    }
+    .product-image {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .product-image img {
+      width: 250px;
+      border-radius: 12px;
+    }
+    .product-description {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-top: 20px;
+    }
+    .highlight {
+      color: #bc6c25;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="product-container">
+    <h1 class="product-title">🌵 Cactus Chatter – The Talking Succulent 🌵</h1>
+    <div class="product-image">
+      <img src="https://example.com/cactus.jpg" alt="Talking Cactus Plant">
+    </div>
+    <div class="product-description">
+      <p>想要一個會「回你話」的辦公桌好夥伴嗎？<span class="highlight">Cactus Chatter</span> 是一款搭載聲音感應功能的小型仙人掌，只要你靠近或對它說話，它就會發出輕柔可愛的回應音，彷彿在陪你聊天。</p>
+      <p>內建<span class="highlight">8 種療癒語音</span>，不僅適合在辦公室、書桌擺設，也非常適合當作送給朋友或小孩的溫馨禮物。</p>
+      <p>🌿 無需照顧，零失敗的綠植感受。<br>🔋 使用 USB 充電，續航達 48 小時。</p>
+      <p><span class="highlight">現在下單，加贈迷你盆栽造型貼紙組一份！</span></p>
+    </div>
+  </div>
+</body>
+</html>
